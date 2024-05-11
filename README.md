@@ -1,3 +1,3 @@
 ddos simple doang 🗿
 penggunaan:
-node 
+node ddos.js target waktu rpc threads fileproxy
